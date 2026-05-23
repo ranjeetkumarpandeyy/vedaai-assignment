@@ -3,7 +3,7 @@
 **Full Stack Engineering Assignment Implementation**
 
 AI-powered academic assessment system that allows teachers to create assignments and generate question papers using AI.
-
+https://vedaai-assignment-ranjeetpandey.netlify.app/home
 ---
 
 ## Architecture Overview
